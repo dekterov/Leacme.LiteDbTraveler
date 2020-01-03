@@ -5,6 +5,7 @@
 This application features the ability to view the contents of a [LiteDB](https://www.litedb.org) database including the documents belonding to collections.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703424-a2058500-2d91-11ea-995f-f2d49d957fc1.png)
 
 ## Application Compiling
 
